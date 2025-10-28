@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This is my Portfolio website designed to showcase my skills, projects, and achievements as a Computer Science student. It serves as a central hub for my professional presence, providing visitors with insights into my background and technical expertise
